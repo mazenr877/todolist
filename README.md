@@ -12,6 +12,8 @@ Sophisticated a task management app with features to add, edit, and delete tasks
 
 Benefice Bloc for state management while following the MVVM architecture.
 
+https://github.com/user-attachments/assets/26397344-47da-4c68-8a13-a87b5da66643
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
